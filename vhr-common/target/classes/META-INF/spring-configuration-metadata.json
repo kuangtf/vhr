@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "ruoyi",
+      "type": "com.vhr.ktf.common.config.VhrConfig",
+      "sourceType": "com.vhr.ktf.common.config.VhrConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ruoyi.copyright-year",
+      "type": "java.lang.String",
+      "description": "版权年份",
+      "sourceType": "com.vhr.ktf.common.config.VhrConfig"
+    },
+    {
+      "name": "ruoyi.demo-enabled",
+      "type": "java.lang.Boolean",
+      "description": "实例演示开关",
+      "sourceType": "com.vhr.ktf.common.config.VhrConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "ruoyi.name",
+      "type": "java.lang.String",
+      "description": "项目名称",
+      "sourceType": "com.vhr.ktf.common.config.VhrConfig"
+    },
+    {
+      "name": "ruoyi.version",
+      "type": "java.lang.String",
+      "description": "版本",
+      "sourceType": "com.vhr.ktf.common.config.VhrConfig"
+    }
+  ],
+  "hints": []
+}

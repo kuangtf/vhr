@@ -1,0 +1,33 @@
+12:30:38.151 [restartedMain] INFO  c.v.k.VhrApplication - [logStarting,55] - Starting VhrApplication using Java 1.8.0_241 on 帅枫的G3 with PID 11368 (F:\JavaApp\IdeaProject\vhr\vhr-admin\target\classes started by 11628 in F:\JavaApp\IdeaProject\vhr)
+12:30:38.151 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+12:30:38.151 [restartedMain] INFO  c.v.k.VhrApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+12:30:39.899 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+12:30:39.899 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:30:39.899 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+12:30:39.971 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:30:40.611 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2071] - {dataSource-0} closing ...
+12:30:40.627 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+12:32:56.170 [restartedMain] INFO  c.v.k.VhrApplication - [logStarting,55] - Starting VhrApplication using Java 1.8.0_241 on 帅枫的G3 with PID 4408 (F:\JavaApp\IdeaProject\vhr\vhr-admin\target\classes started by 11628 in F:\JavaApp\IdeaProject\vhr)
+12:32:56.170 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+12:32:56.180 [restartedMain] INFO  c.v.k.VhrApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+12:32:58.007 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+12:32:58.007 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:32:58.007 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+12:32:58.071 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:32:59.692 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+12:33:02.745 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2071] - {dataSource-1} closing ...
+12:33:02.745 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2144] - {dataSource-1} closed
+12:33:02.966 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+12:33:53.343 [restartedMain] INFO  c.v.k.VhrApplication - [logStarting,55] - Starting VhrApplication using Java 1.8.0_241 on 帅枫的G3 with PID 14124 (F:\JavaApp\IdeaProject\vhr\vhr-admin\target\classes started by 11628 in F:\JavaApp\IdeaProject\vhr)
+12:33:53.345 [restartedMain] INFO  c.v.k.VhrApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+12:33:53.346 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+12:33:54.943 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+12:33:54.944 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:33:54.944 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+12:33:55.003 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:33:56.501 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+12:33:59.106 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+12:33:59.295 [restartedMain] INFO  c.v.k.VhrApplication - [logStarted,61] - Started VhrApplication in 6.219 seconds (JVM running for 7.085)
+12:34:35.481 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:35:09.974 [schedule-pool-1] INFO  sys-user - [run,52] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:35:09.993 [http-nio-8080-exec-6] INFO  c.v.k.f.w.s.TokenService - [createToken,104] - token is : 0a0ab5cb-17ec-4748-9e15-7cbc9a46e163
